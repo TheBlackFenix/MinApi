@@ -657,11 +657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DANIE\\source\\repos\\Asistencia\\Asistencia\\Asistencia.csproj",
+      "projectUniqueName": "C:\\Users\\DANIE\\Desktop\\Prueba\\MinApi\\Asistencia\\Asistencia.csproj",
       "projectName": "Asistencia",
-      "projectPath": "C:\\Users\\DANIE\\source\\repos\\Asistencia\\Asistencia\\Asistencia.csproj",
+      "projectPath": "C:\\Users\\DANIE\\Desktop\\Prueba\\MinApi\\Asistencia\\Asistencia.csproj",
       "packagesPath": "C:\\Users\\DANIE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DANIE\\source\\repos\\Asistencia\\Asistencia\\obj\\",
+      "outputPath": "C:\\Users\\DANIE\\Desktop\\Prueba\\MinApi\\Asistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

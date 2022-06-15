@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZmBFq9YbEEXkqviUTsmcWmSV2WFjPOVX3gh0Rw3lWv68o82Jc61XGzdOleIJG49td+sIuPZ4HN0D5sJdxfwEQ==",
+  "dgSpecHash": "Sfwro2O1LkTlsYlemJls7wDQlTH4VJb+/nBddHXUiKSmGrkg61m/4sLBsiBJwexjRekhaYDeX4wG26Lpki9MqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIE\\source\\repos\\Asistencia\\Asistencia\\Asistencia.csproj",
+  "projectFilePath": "C:\\Users\\DANIE\\Desktop\\Prueba\\MinApi\\Asistencia\\Asistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DANIE\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -33,11 +33,6 @@ app.MapGet("/Asistencia",()=>
             {
                 while (read.Read())
                 {
-                    var a1 = read.GetName(0);
-                    var a11 = read.GetName(1);
-                    var a2 = read.GetColumnSchema();
-                    var a3 = read.HasRows;
-                    var a4 = read.VisibleFieldCount;
                     var temp = new Dictionary<string,string>();
                     for(var a = 0; a <= read.FieldCount-1;a++)
                     {
